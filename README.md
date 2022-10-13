@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on projects on Artificial Intelligence | Machine Learning | Web Development | Freelancer
 - 📫 How to reach me 
 - Linkedln: {Kamal Patel](https://www.linkedin.com/in/kamal-patel-61a8201a0/)
+- Twitter: @techiekamal07
 
 <!---
 techiekamal21/techiekamal21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
