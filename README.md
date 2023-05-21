@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 =**==**==**==**==**==**==**==**==**==**=*=**==**==**==**==**==**==**==**==**==**=*=**==**==**==**==**==**==**==**==**==**=*=**==**==**==**==**=
 
 <h1 align="center">Hi 👋, I'm Kamal Patel</h1>
-<h3 align="center">Greetings, I am an ECE specialist, a passionate web developer, and a proud resident of India. With a love for blogging, I explore the captivating worlds of optical networking and security implementation. As an entrepreneur at Connect Kreations and Ideaota, I contribute to the vibrant community, shaping innovation and redefining the digital realm. Join me as we embark on this extraordinary journey of creativity and transformation!</h3>
+<h3 align="justify">Greetings, I am an ECE specialist, a passionate web developer, and a proud resident of India. With a love for blogging, I explore the captivating worlds of optical networking and security implementation. As an entrepreneur at Connect Kreations and Ideaota, I contribute to the vibrant community, shaping innovation and redefining the digital realm. Join me as we embark on this extraordinary journey of creativity and transformation!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techiekamal21&label=Profile%20views&color=0e75b6&style=flat" alt="techiekamal21" /> </p>
 
