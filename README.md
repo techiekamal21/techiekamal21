@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @techiekamal21
-- 👀 I’m interested in ECE || WEBMASTER || Developer || Blogger || Optical Networking & Secruity Implementation || Entrepreneurs at Connect Kreations
+- 👀 Passionate Engineer in ECE || WEBMASTER || Developer || Blogger || Optical Networking & Secruity Implementation || Entrepreneurs at Connect Kreations & Ideaota
 - 🌱 I’m currently learning Bachelors Of Engineering!!
 - 💞️ I’m looking to collaborate on projects on Artificial Intelligence | Machine Learning | Web Development | Freelancer
 - 📫 How to reach me 
@@ -57,6 +57,10 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techiekamal21&show_icons=true&locale=en&layout=compact" alt="techiekamal21" /></p>
 
+***********************************************************************************************************************************************
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techiekamal21&show_icons=true&locale=en" alt="techiekamal21" /></p>
+
+***********************************************************************************************************************************************
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techiekamal21&" alt="techiekamal21" /></p>
