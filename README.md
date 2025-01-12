@@ -1,6 +1,11 @@
 # Hi 👋, I'm Kamal Patel
 
 [![Profile Views](https://komarev.com/ghpvc/?username=techiekamal21&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/techiekamal21)
+[![Twitter Follow](https://img.shields.io/twitter/follow/techiekamal07?logo=twitter&style=for-the-badge)](https://twitter.com/techiekamal07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamal-patel-61a8201a0)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/techiekamal)
+
+![Animated Banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ## About Me
 
