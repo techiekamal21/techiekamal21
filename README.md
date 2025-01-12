@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I am an **ECE Specialist**, **Web Developer**, **Blogger**, and **Entrepreneur** passionate about **Optical Networking**, **Security Implementation**, and crafting digital solutions. As the founder of **Connect Kreations** and **Ideaota**, I strive to blend creativity and innovation to redefine the digital landscape.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub!;Web+Developer+%7C+Network+Engineer;Entrepreneur+%7C+Freelancer+%7C+Blogger;Let's+Collaborate+and+Innovate!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub!">
 </p>
 
 ---
