@@ -12,7 +12,7 @@ I am a passionate Engineer with expertise in **Entrepreneur** , **Telecommunicat
 
 ## 🚀 About Me  
 
-- 🔭 **Currently Working On**: Advanced automation solutions at **Infinera** and expanding **Connect Kreations**.  
+- 🔭 **Currently Working On**: Advanced automation solutions at **** and expanding **Connect Kreations**.  
 - 🌱 **Learning**: Cybersecurity, Django Framework, Natural Language Processing, and Agile Methodologies.  
 - 👯 **Collaboration Interests**: AI/ML, Web Development, Telecom, Data Science, Open Source.  
 - 📝 **Blogger**: I share insights on technology and innovation at [Connect Kreations](https://www.connectkreations.com).  
