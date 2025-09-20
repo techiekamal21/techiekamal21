@@ -18,7 +18,7 @@
 ## 🎯 About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
 </div>
 
 ```yaml
@@ -79,32 +79,13 @@ motto: "Blending creativity and innovation to redefine the digital landscape"
 <div align="center">
 
 ### 💻 Programming Languages
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,sql&theme=dark" />
 
 ### 🚀 Frameworks & Libraries
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=django,flask,react,nodejs,bootstrap&theme=dark" />
 
 ### 🔧 Tools & Platforms
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,mysql,mongodb&theme=dark" />
 
 ### 📊 Data & Analytics
 <p>
@@ -127,7 +108,7 @@ motto: "Blending creativity and innovation to redefine the digital landscape"
       <td width="50%">
         <h3 align="center">🔄 PACE Automation</h3>
         <div align="center">
-          <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+          <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
           <br><br>
           <p><strong>Streamlined optical network processes</strong></p>
           <p>🎯 40% reduction in manual effort</p>
@@ -137,7 +118,7 @@ motto: "Blending creativity and innovation to redefine the digital landscape"
       <td width="50%">
         <h3 align="center">📊 Data Analysis Framework</h3>
         <div align="center">
-          <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100"/>
+          <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100"/>
           <br><br>
           <p><strong>Insightful dashboards & analytics</strong></p>
           <p>📈 Tableau & SQL integration</p>
@@ -149,7 +130,7 @@ motto: "Blending creativity and innovation to redefine the digital landscape"
       <td width="50%">
         <h3 align="center">🌐 Network Planning Tool</h3>
         <div align="center">
-          <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+          <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
           <br><br>
           <p><strong>DWDM & WSON optimization</strong></p>
           <p>⚡ Efficient resource utilization</p>
@@ -159,7 +140,7 @@ motto: "Blending creativity and innovation to redefine the digital landscape"
       <td width="50%">
         <h3 align="center">🤖 AI/ML Solutions</h3>
         <div align="center">
-          <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100"/>
+          <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100"/>
           <br><br>
           <p><strong>Intelligent automation systems</strong></p>
           <p>🧠 Machine learning models</p>
@@ -207,7 +188,7 @@ motto: "Blending creativity and innovation to redefine the digital landscape"
 
 <div align="center">
   
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200"/>
   
   <br><br>
   
@@ -256,7 +237,7 @@ motto: "Blending creativity and innovation to redefine the digital landscape"
 
 <div align="center">
   
-  <img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="150"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216644507-f5c2d74d-0c5a-4a92-b4c7-8a0e1d3a9c7a.gif" width="150"/>
   
   <br><br>
   
@@ -279,15 +260,11 @@ motto: "Blending creativity and innovation to redefine the digital landscape"
   
   **💡 "Innovation is at the core of my journey. Let's create the future together!" 💡**
   
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
   
 </div>
 
 <!-- Snake Animation -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techiekamal21/techiekamal21/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techiekamal21/techiekamal21/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/techiekamal21/techiekamal21/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 </div>
