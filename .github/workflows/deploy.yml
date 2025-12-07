@@ -47,13 +47,13 @@ jobs:
         with:
           enablement: true
         
-      - name: Copy .nojekyll to dist
-        run: cp public/.nojekyll dist/ || true
+      - name: Add .nojekyll
+        run: touch dist/.nojekyll
         
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './dist'
+          path: 'dist'
           
   deploy:
     environment:
