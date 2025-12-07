@@ -40,14 +40,7 @@
     <br/>
     <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,mysql,mongodb,postgres,linux&theme=dark" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,tableau,powerbi&theme=dark" />
   </p>
 
   ---
@@ -70,20 +63,12 @@
 
   ---
 
-  <!-- Contribution Graph -->
-  ## 📊 Contribution Activity
-
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=techiekamal21&custom_title=Kamal's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true" alt="Contribution Graph" width="100%"/>
-  </p>
-
-  ---
-
   <!-- Snake Animation -->
-  ## 🐍 Contribution Snake
+  ## 🐍 Contribution History
   
   <p align="center">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+    <!-- Note: This requires the snake-action workflow to be set up in your repo -->
+    <img src="https://raw.githubusercontent.com/techiekamal21/techiekamal21/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   </p>
 
   ---
