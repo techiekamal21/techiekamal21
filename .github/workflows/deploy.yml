@@ -34,12 +34,21 @@ jobs:
         run: npm run build
         
       - name: List dist contents
-        run: ls -la dist/
+        run: |
+          echo "=== Dist root ==="
+          ls -la dist/
+          echo "=== Dist assets ==="
+          ls -la dist/assets/ || echo "No assets folder"
+          echo "=== Index.html content ==="
+          cat dist/index.html | head -30
         
       - name: Setup Pages
         uses: actions/configure-pages@v4
         with:
           enablement: true
+        
+      - name: Copy .nojekyll to dist
+        run: cp public/.nojekyll dist/ || true
         
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
