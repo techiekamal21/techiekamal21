@@ -118,7 +118,7 @@
   <table border="0" width="100%">
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">🤖 PACE Automation</h3>
+        <h3 align="center">🤖 Python Automation</h3>
         <p align="center">
           <img src="https://img.shields.io/badge/Impact-40%25_Efficiency_Boost-success?style=flat-square"/>
           <br/>
