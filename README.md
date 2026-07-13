@@ -184,6 +184,6 @@
       <img src="https://img.shields.io/badge/Support_My_Work-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
     </a>
     <br/><br/>
-    <p style="color: #8b949e; font-size: 12px;">© 2025 Kamal Patel | Connect Kreations</p>
+    <p style="color: #8b949e; font-size: 12px;">© 2026 Kamal Patel | Connect Kreations | Codebyart.com</p>
   </div>
 </div>
